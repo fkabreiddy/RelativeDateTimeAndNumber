@@ -6,10 +6,11 @@
         <Nullable>enable</Nullable>
         <AssemblyName>Relative_Date_Time</AssemblyName>
         <PackageId>RelativeDateTime.Net</PackageId>
-        <Version>1.0.2</Version>
+        <Version>1.0.3</Version>
         <Authors>Breiddy García (fkabreiddy)</Authors>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/fkabreiddy/RelativeDateTimeAndNumber</RepositoryUrl>
+		<Description>A library to get numbers and dates in a relative format. Example: 1 day, 2 months, 30 k etc.</Description>
 
     </PropertyGroup>
 
