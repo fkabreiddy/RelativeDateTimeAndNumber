@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\fkabreiddy\\RelativeDateTimeAndNumber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\documents\\proyects\\relativedatetimeandnumber\\relativedateandnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\source\\repos\\fkabreiddy\\relativedatetimeandnumber\\relativedateandnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|solutionrelative:relativedateandnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\documents\\proyects\\relativedatetimeandnumber\\relativenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\source\\repos\\fkabreiddy\\relativedatetimeandnumber\\relativenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|solutionrelative:relativenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\documents\\proyects\\relativedatetimeandnumber\\relativedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\source\\repos\\fkabreiddy\\relativedatetimeandnumber\\relativedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|solutionrelative:relativedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +27,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RelativeDateAndNumbers",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
+              "Title": "RelativeDateAndNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Source\\Repos\\fkabreiddy\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
               "RelativeDocumentMoniker": "RelativeDateAndNumbers.csproj",
-              "ToolTip": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
+              "ToolTip": "C:\\Users\\User\\Source\\Repos\\fkabreiddy\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
               "RelativeToolTip": "RelativeDateAndNumbers.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RelativeNumber.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeNumber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\fkabreiddy\\RelativeDateTimeAndNumber\\RelativeNumber.cs",
               "RelativeDocumentMoniker": "RelativeNumber.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeNumber.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\fkabreiddy\\RelativeDateTimeAndNumber\\RelativeNumber.cs",
               "RelativeToolTip": "RelativeNumber.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T00:23:26.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T00:23:26.486Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RelativeDate.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\fkabreiddy\\RelativeDateTimeAndNumber\\RelativeDate.cs",
               "RelativeDocumentMoniker": "RelativeDate.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\fkabreiddy\\RelativeDateTimeAndNumber\\RelativeDate.cs",
               "RelativeToolTip": "RelativeDate.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T00:23:15.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T00:23:15.735Z"
             },
             {
               "$type": "Bookmark",

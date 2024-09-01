@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Breiddy García (fkabreiddy)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+a2f770352d8db566c0d8ee5c8331214f842a5f79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+1dab1168a3cdb4d325136f4875b200eb6716a178")]
 [assembly: System.Reflection.AssemblyProductAttribute("Relative_Date_Time")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Relative_Date_Time")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
