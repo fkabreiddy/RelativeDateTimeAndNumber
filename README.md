@@ -13,10 +13,10 @@ Console.WriteLine(number.ToRelativeString("us", true));  // Output: "1 B"
 Console.WriteLine(number.ToRelativeString("us", false)); // Output: "1 billion"
 
 // Formato corto en español
-Console.WriteLine(number.ToRelativeString("es", true));  // Output: "1 B"
+Console.WriteLine(number.ToRelativeString("es", true));  // Output: "1 Mm"
 
 // Formato largo en español
-Console.WriteLine(number.ToRelativeString("es", false)); // Output: "1 billones"
+Console.WriteLine(number.ToRelativeString("es", false)); // Output: "1 Mil millones"
 
 
 // With Dates
