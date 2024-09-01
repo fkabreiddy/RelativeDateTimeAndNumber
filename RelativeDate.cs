@@ -10,40 +10,40 @@ public static class RelativeDate
         {
 
             if (timeSpan.TotalSeconds < 60)
-                return $"{(int)timeSpan.TotalSeconds} {(shortForm ? "s" : " segundos")}"; // Segundos
+                return $"{(int)timeSpan.TotalSeconds} {(shortForm ? "s" : "segundos")}"; // Segundos
 
             if (timeSpan.TotalMinutes < 60)
-                return $"{(int)timeSpan.TotalMinutes} {(shortForm ? "m" : " minutos")}"; // Minutos
+                return $"{(int)timeSpan.TotalMinutes} {(shortForm ? "m" : "minutos")}"; // Minutos
 
             if (timeSpan.TotalHours < 24)
-                return $"{(int)timeSpan.TotalHours} {(shortForm ? "h" : " horas")}"; // Horas
+                return $"{(int)timeSpan.TotalHours} {(shortForm ? "h" : "horas")}"; // Horas
 
             if (timeSpan.TotalDays < 30)
-                return $"{(int)timeSpan.TotalDays} {(shortForm ? "d" : " días")}"; // Días
+                return $"{(int)timeSpan.TotalDays} {(shortForm ? "d" : "días")}"; // Días
 
             if (timeSpan.TotalDays < 365)
-                return $"{(int)(timeSpan.TotalDays / 30)} {(shortForm ? "M" : " Meses")}"; // Meses
+                return $"{(int)(timeSpan.TotalDays / 30)} {(shortForm ? "M" : "Meses")}"; // Meses
 
-            return $"{(int)(timeSpan.TotalDays / 365)} {(shortForm ? "Y" : " Años")}"; // Años
+            return $"{(int)(timeSpan.TotalDays / 365)} {(shortForm ? "Y" : "Años")}"; // Años
         }
         
 
         if (timeSpan.TotalSeconds < 60)
-            return $"{(int)timeSpan.TotalSeconds} {(shortForm ? "s" : " seconds")}"; // Segundos
+            return $"{(int)timeSpan.TotalSeconds} {(shortForm ? "s" : "seconds")}"; // Segundos
 
         if (timeSpan.TotalMinutes < 60)
-            return $"{(int)timeSpan.TotalMinutes} {(shortForm ? "m" : " minutes")}"; // Minutos
+            return $"{(int)timeSpan.TotalMinutes} {(shortForm ? "m" : "minutes")}"; // Minutos
 
         if (timeSpan.TotalHours < 24)
-            return $"{(int)timeSpan.TotalHours} {(shortForm ? "h" : " hours")}"; // Horas
+            return $"{(int)timeSpan.TotalHours} {(shortForm ? "h" : "hours")}"; // Horas
 
         if (timeSpan.TotalDays < 30)
-            return $"{(int)timeSpan.TotalDays} {(shortForm ? "d" : " days")}"; // Días
+            return $"{(int)timeSpan.TotalDays} {(shortForm ? "d" : "days")}"; // Días
 
         if (timeSpan.TotalDays < 365)
-            return $"{(int)(timeSpan.TotalDays / 30)} {(shortForm ? "M" : " Months")}"; // Meses
+            return $"{(int)(timeSpan.TotalDays / 30)} {(shortForm ? "M" : "Months")}"; // Meses
 
-        return $"{(int)(timeSpan.TotalDays / 365)} {(shortForm ? "Y" : " Years")}"; // Años
+        return $"{(int)(timeSpan.TotalDays / 365)} {(shortForm ? "Y" : "Years")}"; // Años
     }
 
 

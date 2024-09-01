@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\bin\Release\net8.0\Relative_Date_Time.deps.json
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\bin\Release\net8.0\Relative_Date_Time.dll
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\bin\Release\net8.0\Relative_Date_Time.pdb
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\RelativeDateAndNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\RelativeDateAndNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\RelativeDateAndNumbers.AssemblyInfo.cs
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\RelativeDateAndNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\RelativeDateAndNumbers.sourcelink.json
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\Relative_Date_Time.dll
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\refint\Relative_Date_Time.dll
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\Relative_Date_Time.pdb
+C:\Users\User\Documents\Proyects\RelativeDateTimeAndNumber\obj\Release\net8.0\ref\Relative_Date_Time.dll

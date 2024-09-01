@@ -8,20 +8,20 @@ public static class RelativeNumber
         if (shortForm)
         {
             if (num >= 1_000_000_000)
-                return $"{num / 1_000_000_000} {(language.ToLower() == "es" ? "B" : "B")}";
+                return $"{num / 1_000_000_000} {(language.ToLower() == "es" ? "Mm" : "B")}";
             if (num >= 1_000_000)
                 return $"{num / 1_000_000} {(language.ToLower() == "es" ? "M" : "M")}";
             if (num >= 1_000)
-                return $"{num / 1_000} {(language.ToLower() == "es" ? "k" : "k")}";
+                return $"{num / 1_000} {(language.ToLower() == "es" ? "m" : "k")}";
         }
         else
         {
             if (num >= 1_000_000_000)
-                return $"{num / 1_000_000_000} {(language.ToLower() == "es" ? " billones" : " billion")}";
+                return $"{num / 1_000_000_000} {(language.ToLower() == "es" ? " billones" : "billion")}";
             if (num >= 1_000_000)
-                return $"{num / 1_000_000} {(language.ToLower() == "es" ? " millones" : " million")}";
+                return $"{num / 1_000_000} {(language.ToLower() == "es" ? " millones" : "million")}";
             if (num >= 1_000)
-                return $"{num / 1_000} {(language.ToLower() == "es" ? " mil" : " thousand")}";
+                return $"{num / 1_000} {(language.ToLower() == "es" ? "mil" : "thousand")}";
         }
         return num.ToString();
     }

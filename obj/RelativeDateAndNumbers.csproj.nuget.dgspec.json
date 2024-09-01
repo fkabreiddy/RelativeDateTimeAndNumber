@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\RelativeDateAndNumbers\\RelativeDateAndNumbers\\RelativeDateAndNumbers.csproj": {}
+    "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\RelativeDateAndNumbers\\RelativeDateAndNumbers\\RelativeDateAndNumbers.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj": {
+      "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\RelativeDateAndNumbers\\RelativeDateAndNumbers\\RelativeDateAndNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
         "projectName": "RelativeDateTime.Net",
-        "projectPath": "C:\\Proyectos\\RelativeDateAndNumbers\\RelativeDateAndNumbers\\RelativeDateAndNumbers.csproj",
-        "packagesPath": "C:\\Users\\breid\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\RelativeDateAndNumbers\\RelativeDateAndNumbers\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\breid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

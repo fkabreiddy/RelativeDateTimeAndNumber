@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\documents\\proyects\\relativedatetimeandnumber\\relativedateandnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|solutionrelative:relativedateandnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\documents\\proyects\\relativedatetimeandnumber\\relativenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|solutionrelative:relativenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|c:\\users\\user\\documents\\proyects\\relativedatetimeandnumber\\relativedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CD3D16-138D-4975-93FA-000EB1278E72}|RelativeDateAndNumbers.csproj|solutionrelative:relativedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelativeDateAndNumbers",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
+              "RelativeDocumentMoniker": "RelativeDateAndNumbers.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDateAndNumbers.csproj",
+              "RelativeToolTip": "RelativeDateAndNumbers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T00:27:58.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelativeNumber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeNumber.cs",
+              "RelativeDocumentMoniker": "RelativeNumber.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeNumber.cs",
+              "RelativeToolTip": "RelativeNumber.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:23:26.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelativeDate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDate.cs",
+              "RelativeDocumentMoniker": "RelativeDate.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyects\\RelativeDateTimeAndNumber\\RelativeDate.cs",
+              "RelativeToolTip": "RelativeDate.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:23:15.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
